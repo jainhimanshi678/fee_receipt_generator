@@ -1,0 +1,2 @@
+const String collegeName = "NSAM Academy of Fashion & Interior Designing";
+const String collegeAddress = "NSAM ACADEMY-28, Shree Ambika Heritage, Plot 1, Sector 1, Kharghar, Navi Mumbai, Maharashtra 410210";
